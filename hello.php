@@ -1,1 +1,1 @@
-echo "Hello PHP"
+echo"Hi PHP"
