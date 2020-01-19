@@ -3,3 +3,4 @@ New string
 Second string
 One page
 Hello git
+Hello git rebase
